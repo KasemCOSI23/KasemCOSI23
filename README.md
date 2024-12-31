@@ -1,7 +1,7 @@
 # Kasem Amnuayrotchanachinda
 
 ## Welcome to My GitHub!
-Currently, I am a Master's student (University of Eastern Finland) with an Erasmus Mundus master’s degree scholarship specializing in Computational Colour and Spectral Imaging . As an AI enthusiast, I honed my artificial intelligence skills through an apprenticeship with experts in the Super AI Engineer program, organized by the Artificial Intelligence Association of Thailand—one of the top AI programs in the country. Additionally, I gained valuable data science experience as an intern with the technology arm of KASIKORN BANK (KBank), one of Thailand’s leading commercial banks. To satisfy my passion in this area, I’m looking for job opportunities in the fields of data scientist and Remote sensing.
+Currently, I am a Master's student (University of Eastern Finland) with an Erasmus Mundus master’s degree scholarship specializing in Computational Colour and Spectral Imaging . In this program, I have developed my data scientist skill with focusing on Spectral Imaging. As an AI enthusiast, I honed my artificial intelligence skills through an apprenticeship with experts in the Super AI Engineer program, organized by the Artificial Intelligence Association of Thailand—one of the top AI programs in the country. Additionally, I gained valuable data science experience as an intern with the technology arm of KASIKORN BANK (KBank), one of Thailand’s leading commercial banks. To satisfy my passion in this area, I’m looking for job opportunities in the fields of data scientist and Remote sensing.
 
 ### Current 
 - **Project Focus:** I'm currently focus on Computer vision, deep learning, HyperSpectral Imaging and image processing.
