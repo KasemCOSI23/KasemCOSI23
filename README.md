@@ -12,11 +12,14 @@ Currently, I am a Master's student (University of Eastern Finland) with an Erasm
 - **Python:** I use Python as the main software Language.
 - **TensorFlow:** A key framework in my toolbox for implementing deep learning algorithms.
 - **Pytorch:** Another framework which I used to develop deep learning model.
+- **Scikit learn:** Machine learning models
 - **MATLAB:** Image processing and visualization
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
+  
 </div>
