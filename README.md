@@ -11,8 +11,8 @@ Currently, I am a Master's student (University of Eastern Finland) with an Erasm
 
 - **Python:** I use Python as the main software Language.
 - **TensorFlow:** A key framework in my toolbox for implementing deep learning algorithms.
-- **Pytorch:**
-- **MATLAB:** 
+- **Pytorch:** Another framework which I used to develop deep learning model.
+- **MATLAB:** Image processing and visualization
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
